@@ -24,10 +24,10 @@ PROFILE = {
 # Isi setiap "url" dengan link Google Drive KHS semester terkait.
 # Contoh: "url": "https://drive.google.com/file/d/ID_FILE/view"
 SEMESTERS = [
-    {"name": "Semester 1", "ip": "4,00", "url": ""},
-    {"name": "Semester 2", "ip": "3,84", "url": ""},
-    {"name": "Semester 3", "ip": "4,00", "url": ""},
-    {"name": "Semester 4", "ip": "4,00", "url": ""},
+    {"name": "Semester 1", "ip": "4,00", "url": "https://drive.google.com/file/d/10J-vqWM8R49LSKpLDzDSxhavsspYphCN/view?usp=drive_link"},
+    {"name": "Semester 2", "ip": "3,84", "url": "https://drive.google.com/file/d/1NIYMpEGUpX7VGBF6JDNJzrfxRXM3SAEz/view?usp=drive_link"},
+    {"name": "Semester 3", "ip": "4,00", "url": "https://drive.google.com/file/d/1ukITF94P2jdQXvdEh1COiA1s70ptGdXq/view?usp=drive_link"},
+    {"name": "Semester 4", "ip": "4,00", "url": "https://drive.google.com/file/d/1HD6Lz_Mq1CbfhyX4fOAnrD2xU7-Z4R_V/view?usp=drive_link"},
 ]
 HARD_SKILLS = ["HTML", "CSS", "PHP", "SQL", "MySQL / MariaDB", "Database Design", "Figma", "Microsoft Office", "Visual Studio Code"]
 SOFT_SKILLS = ["Komunikasi", "Kerja Sama Tim", "Problem Solving", "Disiplin", "Cepat Belajar", "Bertanggung Jawab"]
