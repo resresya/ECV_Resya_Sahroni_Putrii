@@ -59,14 +59,14 @@ PROJECTS = [
 # Isi kolom ketiga (url) dengan link Google Drive sertifikat masing-masing.
 # Contoh: ("Database Administrator – BNSP", "Sertifikasi Kompetensi", "https://drive.google.com/file/d/ID_FILE/view")
 CERTIFICATES = [
-    ("Database Administrator – BNSP", "Sertifikasi Kompetensi", ""),
-    ("Uji Kompetensi Berbasis Industri Bidang Basis Data", "Sertifikasi Kompetensi", ""),
-    ("Software Quality Assurance", "Sertifikasi Kompetensi", ""),
-    ("Seminar Wajib Entrepreneur", "Seminar", ""),
-    ("Seminar Sosial Pencegahan Intoleransi, Radikalisme, dan Terorisme di Lingkungan Kampus", "Seminar", ""),
-    ("Akselerasi Transformasi Digital Mendukung Ekonomi Kreatif Melalui Talenta Digital", "Seminar", ""),
-    ("Webinar Edukasi & Inklusi Pasar Modal", "Webinar", ""),
-    ("Panitia Workshop Pemanfaatan Artificial Intelligence (AI)", "Kepanitiaan", ""),
+    ("Database Administrator – BNSP", "Sertifikasi Kompetensi", "https://drive.google.com/file/d/175vVQWEK2GSlDAVn-vw_8R6AE_ZFXiPo/view?usp=drive_link"),
+    ("Uji Kompetensi Berbasis Industri Bidang Basis Data", "Sertifikasi Kompetensi", "https://drive.google.com/file/d/1nOOSrzNtFkLUFR8grJ3NkIt8wncoysEt/view?usp=drive_link"),
+    ("Software Quality Assurance", "Sertifikasi Kompetensi", "https://drive.google.com/file/d/1vvZHb4ymy3pXIz1-5brLANDHM55oPgQ0/view?usp=drive_link"),
+    ("Seminar Wajib Entrepreneur", "Seminar", "https://drive.google.com/file/d/1MUfBktEeVxYcYZ8jPeWsqN833kGM7BvL/view?usp=drive_link"),
+    ("Seminar Sosial Pencegahan Intoleransi, Radikalisme, dan Terorisme di Lingkungan Kampus", "Seminar", "https://drive.google.com/file/d/1gWdqsz8drRcRGEUknrV_6odXhQd7PTEh/view?usp=drive_link"),
+    ("Akselerasi Transformasi Digital Mendukung Ekonomi Kreatif Melalui Talenta Digital", "Seminar", "https://drive.google.com/file/d/16OgSHF9fuLyr81rmDznKLInxPFefObOQ/view?usp=drive_link"),
+    ("Webinar Edukasi & Inklusi Pasar Modal", "Webinar", "https://drive.google.com/file/d/1HOHD0BYmkUK6WGOCg0LK4naFDf0ZQKDO/view?usp=drive_link"),
+    ("Panitia Workshop Pemanfaatan Artificial Intelligence (AI)", "Kepanitiaan", "https://drive.google.com/file/d/1-kKdeK4gPDB9_8K2LRdYNHeXH08HHTHe/view?usp=drive_link"),
 ]
 PDF_PATH = Path(__file__).parent / "CV_Resya_Sahroni_Putri.pdf"
 PHOTO_PATH = Path(__file__).parent / "profile.jpg"
